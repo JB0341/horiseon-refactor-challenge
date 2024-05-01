@@ -6,6 +6,8 @@ The purpose of the Challenge was to refactor the code and css without changing t
 
 The steps taken are listed below.
 
+# Changes Made
+
 1. Created a new repository on GitHub and cloned it to my computer, and copied the index.html and .assets/css/style.css over.
 
 # Index.HTML changes
@@ -40,6 +42,8 @@ The steps taken are listed below.
 
 5. consolidated footer styling and changed from class to an element.
 
-![Screenshot of Horiseon Page](<../../../OneDrive/Pictures/Screenshots/Horiseon Refactor Challenge.png>)
+# Important Links
+
+[Screenshot of Horiseon Page](<../../../OneDrive/Pictures/Screenshots/Horiseon Refactor Challenge.png>)
 
 [Deployment-Link] (https://jb0341.github.io/horiseon-refactor-challenge/#social-media-marketing)
