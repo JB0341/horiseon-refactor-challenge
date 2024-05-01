@@ -44,6 +44,6 @@ The steps taken are listed below.
 
 # Important Links
 
-[Screenshot of Page](<Screenshot 2024-05-01 130605.jpg>)
+[Screenshot of page](<Horiseon Screenshot.png>)
 
 [Deployment-Link] (https://jb0341.github.io/horiseon-refactor-challenge/#social-media-marketing)
